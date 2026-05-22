@@ -2,7 +2,7 @@
     "accounts": [
         {
             "email": "",
-            "emailAppPassword": "16 digit app password",
+            "emailAppPassword": "",
             "partyId": ""
         },
         {
