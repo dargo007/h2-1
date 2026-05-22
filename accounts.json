@@ -1,0 +1,14 @@
+{
+    "accounts": [
+        {
+            "email": "",
+            "emailAppPassword": "16 digit app password",
+            "partyId": ""
+        },
+        {
+            "email": "",
+            "emailAppPassword": "16 digit app password",
+            "partyId": ""
+        }
+    ]
+}

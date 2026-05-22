@@ -1,0 +1,16 @@
+{
+  "scheduleTime": "04:50",
+  "timezone": "Asia/Jakarta",
+  "retryAttempts": 3,
+  "retryDelayMs": 2000,
+  "tokenRefreshIntervalMs": 600000,
+  "autoLogin": true,
+  "withdrawFee": 1.0,
+  "_help": {
+    "scheduleTime": "Format HH:MM (24-hour), waktu WIB. Contoh: 04:50 = jam 4:50 pagi WIB",
+    "tokenRefreshIntervalMs": "Interval refresh token dalam ms. 600000 = 10 menit",
+    "retryAttempts": "Jumlah retry jika gagal",
+    "retryDelayMs": "Delay antar retry dalam ms",
+    "withdrawFee": "Fee flat CC per transfer. Set null untuk auto-detect dari API"
+  }
+}
